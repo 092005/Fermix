@@ -1,0 +1,52 @@
+nav{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: grey;
+    margin-right: 10px;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 60%;
+    padding: 10px
+}
+.Searchbar{
+    margin-top: 50px;
+    text-align: center;
+}
+.images{
+    
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display:inline-block;
+    width: 350px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: grey;
+    cursor: pointer;
+}
+.images:hover{
+    color: wheat;
+}
+.about{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.Contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
